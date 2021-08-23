@@ -111,11 +111,11 @@
   
   # SUPPORT SERVER
   
-  <div align="center"> 
+
+  
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&text=  <div align="center"> 
   <a href="https://discord.com/invite/mbG5RWHXR7" target="_blank">
   <img src="assets/discord.png" alt="Discord Support Server" width="400" height="128" />
   </a>
-  </div>
-  
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer&)
+  </div>)
