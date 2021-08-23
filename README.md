@@ -76,7 +76,13 @@
 ![](https://hit.yhype.me/github/profile?user_id=71689062)
 </div>
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8Yjx_8oCJUHpVV7pHyye4w?style=for-the-badge">
+## YouTube Stats
+
+<div align="center">
+<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8Yjx_8oCJUHpVV7pHyye4w?style=for-the-badge&logo=youtube">
+
+</div>  
+  
   <br>
   
 ##  Experienced In
