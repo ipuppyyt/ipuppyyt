@@ -84,7 +84,7 @@
   <div align="center">  
     <a href="https://www.adobe.com/sg/products/aftereffects.html" target="_blank">
   <img style="margin: 30px" src="assets/ae.png" alt="AfterEffects" height="50" />
-    </a>
+    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.adobe.com/sg/products/premiere.html" target="_blank">
   <img style="margin: 30px" src="assets/ppro.png" alt="Premiere Pro" height="50" />
     </a>    
