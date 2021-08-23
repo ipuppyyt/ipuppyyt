@@ -94,8 +94,8 @@
       <a href="https://www.blender.org/" target="_blank">
   <img style="margin: 30px" src="assets/blender.png" alt="Blender" height="50" />
       </a>
-        <a href="https://www.blender.org/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/obs-studio.png"/>
+        <a href="https://obsproject.com/" target="_blank">
+  <img src="https://img.icons8.com/office/100/000000/obs-studio.png"/>
       </a>
   
   
