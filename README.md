@@ -97,7 +97,7 @@
         <a href="https://obsproject.com/" target="_blank">
   <img src="https://img.icons8.com/office/100/000000/obs-studio.png" alt="OBS" height="50"/>
       </a>
-          <a href="https://obsproject.com/" target="_blank">
+          <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" height="50"/>
       </a>
  
