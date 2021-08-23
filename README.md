@@ -118,7 +118,15 @@
   <br>
   <br>
   
-  # SUPPORT SERVER
+   # Suggested Videos
+   
+  [![Make Win Faster](https://img.youtube.com/vi/5sIl-FhA2nU/0.jpg)](https://www.youtube.com/watch?v=5sIl-FhA2nU) 
+  
+  
+  [![Make Win Faster](https://img.youtube.com/vi/bqNvSEBUbf4/0.jpg)](https://www.youtube.com/watch?v=bqNvSEBUbf4) 
+  
+  
+  # Support Server
   
   <div align="center"> 
   <a href="https://discord.com/invite/mbG5RWHXR7" target="_blank">
