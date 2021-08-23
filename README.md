@@ -100,7 +100,9 @@
           <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" height="50"/>
       </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- 
+           <a href="https://filmora.wondershare.com/" target="_blank">
+  <img src="assets/filmora9.png" alt="Wondershare Filmora 9" height="50"/>
+      </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   </div>
   
