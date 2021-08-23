@@ -83,16 +83,16 @@
 
   <div align="center">  
     <a href="https://www.adobe.com/sg/products/aftereffects.html" target="_blank">
-  <img style="margin: 10px" src="assets/ae.png" alt="AfterEffects" height="50" />
+  <img style="margin: 30px" src="assets/ae.png" alt="AfterEffects" height="50" />
     </a>
     <a href="https://www.adobe.com/sg/products/premiere.html" target="_blank">
-  <img style="margin: 10px" src="assets/ppro.png" alt="Premiere Pro" height="50" />
+  <img style="margin: 30px" src="assets/ppro.png" alt="Premiere Pro" height="50" />
     </a>    
     <a href="https://www.adobe.com/sg/products/photoshop.html" target="_blank">
-  <img style="margin: 10px" src="assets/pshop.png" alt="PhotoShop" height="50" />
+  <img style="margin: 30px" src="assets/pshop.png" alt="PhotoShop" height="50" />
     </a>      
       <a href="https://www.blender.org/" target="_blank">
-  <img style="margin: 10px" src="assets/blender.png" alt="Blender" height="50" />
+  <img style="margin: 30px" src="assets/blender.png" alt="Blender" height="50" />
       </a>
   </div>
   
