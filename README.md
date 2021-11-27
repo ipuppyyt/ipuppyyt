@@ -76,6 +76,9 @@
 ![](https://hit.yhype.me/github/profile?user_id=71689062)
 </div>
 
+## Profile Visit Stats 
+![Profile View Counter](https://komarev.com/ghpvc/?username=dhanushdigital)
+
 ## YouTube Stats
 
 <div align="center">
