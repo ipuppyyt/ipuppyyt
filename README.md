@@ -80,7 +80,7 @@
 
 <div align="center">
 
-[![Profile View Counter](https://komarev.com/ghpvc/?username=dhanushdigital)]
+![Profile View Counter](https://komarev.com/ghpvc/?username=dhanushdigital)
 
 <div>
   
