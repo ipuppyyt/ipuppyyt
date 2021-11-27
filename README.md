@@ -80,7 +80,7 @@
 
 <center>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=dhanushdigital)
+[![Profile View Counter](https://komarev.com/ghpvc/?username=dhanushdigital)]
 
 </center>
   
