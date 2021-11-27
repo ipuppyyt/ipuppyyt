@@ -78,10 +78,12 @@
 
 ## Profile Visit Stats 
 
-<div align="center">
-![Profile View Counter](https://komarev.com/ghpvc/?username=dhanushdigital)
-</div>
+<center>
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=dhanushdigital)
+
+</center>
+  
 ## YouTube Stats
 
 <div align="center">
