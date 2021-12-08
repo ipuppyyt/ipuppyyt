@@ -129,11 +129,11 @@
 
   ## Contributors for :
     
-  <div align="left"> 
-🎯<a href="https://github.com/dhanushdigital/website-template-html-portfolio"> Portfolio Website Template </a> <br><br><br>
+    <div align="center"> 
+🎯<a href="https://github.com/dhanushdigital/website-template-html-portfolio"> Portfolio Website Template </a> <br><br>
 <a href="https://github.com/dhanushdigital/website-template-html-portfolio/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=dhanushdigital/website-template-html-portfolio" />
-</a>
+</a><br><br>
     </div>
   
   
