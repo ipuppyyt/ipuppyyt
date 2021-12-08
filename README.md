@@ -78,6 +78,8 @@
 ![](https://hit.yhype.me/github/profile?user_id=71689062)
 </div>
 
+<div align="center">
+
 ## Profile Visit Stats 
 
 <div align="center">
@@ -123,6 +125,7 @@
   <br>
   <br>
   
+</div>
 
   ## Contributors for :
     
