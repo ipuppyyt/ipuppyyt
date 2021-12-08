@@ -125,12 +125,13 @@
   
 
   ## Contributors for :
-    <div align="center"> 
+    
+  <div align="left"> 
 🎯<a href="https://github.com/dhanushdigital/website-template-html-portfolio"> Portfolio Website Template </a> <br>
 <a href="https://github.com/dhanushdigital/website-template-html-portfolio/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=dhanushdigital/website-template-html-portfolio" />
 </a>
-  </div>
+    </div>
   
   
    # Suggested Videos
