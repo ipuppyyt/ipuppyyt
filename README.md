@@ -34,12 +34,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 </div>
   
-  
-### Contributors
 
-<a href="https://github.com/dhanushdigital/website-template-html-portfolio/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=dhanushdigital/website-template-html-portfolio" />
-</a>
 
 </td><td valign="top" width="33%">
 
@@ -127,6 +122,12 @@
   
   <br>
   <br>
+  
+  ### Contributors for :
+🎯<a href="https://github.com/dhanushdigital/website-template-html-portfolio"> Portfolio Website Template </a> <br>
+<a href="https://github.com/dhanushdigital/website-template-html-portfolio/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=dhanushdigital/website-template-html-portfolio" />
+</a>
   
    # Suggested Videos
    
