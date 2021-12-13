@@ -48,6 +48,10 @@
 </td></tr></table>  
 
 <br/>  
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushdigital&layout=compact)](https://github.com/dhanushdigital/dhanushdigital)
+</div>
+<br>
 
 ## Connect with me  
 <div align="center">
