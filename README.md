@@ -76,6 +76,8 @@
   [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushdigital&theme=yeblu)](https://github.com/dhanushdigital/config)
 
 ![](https://hit.yhype.me/github/profile?user_id=71689062)
+  
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushdigital&theme=cobalt" />
 </div>
 
 <div align="center">
