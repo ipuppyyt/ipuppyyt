@@ -164,7 +164,7 @@
   
   <div align="center"> 
   <a href="https://discord.com/invite/mbG5RWHXR7" target="_blank">
-  <img src="assets/discord.png" alt="Discord Support Server" width="400" height="128" />
+  <img src="https://raw.githubusercontent.com/bird2008/InviteLoggerDiscordBot/main/assets/img/discord-banner.png" alt="Discord Support Server" width="400" height="128" />
   </a>
   </div>
   
