@@ -50,14 +50,14 @@
  
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushdigital&layout=compact)](https://github.com/dhanushdigital/dhanushdigital)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipuppyyt&layout=compact)](https://github.com/ipuppyyt/ipuppyyt)
 
 </div>
 <br/>
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/dhanushdigital" target="_blank">
+<a href="https://github.com/ipuppyyt" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/Dhanush51375665" target="_blank">
@@ -79,11 +79,11 @@
 
 <div align="center">
   
-  [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushdigital&theme=yeblu)](https://github.com/dhanushdigital/config)
+  [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipuppyyt&theme=yeblu)](https://github.com/ipuppyyt/config)
 
 ![](https://hit.yhype.me/github/profile?user_id=71689062)
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushdigital&theme=cobalt" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" />
 </div>
 
 <div align="center">
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=dhanushdigital)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ipuppyyt)
 
 </div>
   
@@ -138,13 +138,13 @@
   ## Contributors for :
     
    <div align="center"> 
-🎯<a href="https://github.com/dhanushdigital/website-template-html-portfolio"> Portfolio Website Template </a> <br><br>
-<a href="https://github.com/dhanushdigital/website-template-html-portfolio/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=dhanushdigital/website-template-html-portfolio" />
+🎯<a href="https://github.com/ipuppyyt/website-template-html-portfolio"> Portfolio Website Template </a> <br><br>
+<a href="https://github.com/ipuppyyt/website-template-html-portfolio/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ipuppyyt/website-template-html-portfolio" />
 </a><br><br>
-  🎯<a href="https://github.com/dhanushdigital/GDSC-MCE-Creators"> GDSC MCE Creators </a> <br><br>
-<a href="https://github.com/dhanushdigital/GDSC-MCE-Creators/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=dhanushdigital/website-template-html-portfolio" />
+  🎯<a href="https://github.com/ipuppyyt/GDSC-MCE-Creators"> GDSC MCE Creators </a> <br><br>
+<a href="https://github.com/ipuppyyt/GDSC-MCE-Creators/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=ipuppyyt/website-template-html-portfolio" />
 </a><br><br>
     </div>
   
