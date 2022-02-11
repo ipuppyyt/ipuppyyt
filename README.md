@@ -156,5 +156,8 @@
   </a>
   </div>
   
+   
+  [![Widget](https://discord.com/widget?id=805772724445118474&theme=dark)](https://discord.gg/FzTgDXm5qK)
+  
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=auto&section=footer)
