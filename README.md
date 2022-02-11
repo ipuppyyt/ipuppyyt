@@ -156,8 +156,6 @@
   </a>
   </div>
   
-   
-  <iframe src="https://discord.com/widget?id=805772724445118474&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
   
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=auto&section=footer)
