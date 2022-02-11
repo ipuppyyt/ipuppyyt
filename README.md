@@ -7,6 +7,14 @@
   
 <br/>  
 
+## What Am I Doing Now ?
+
+<p align="center"><br>
+  <a href="https://github.com/ipuppyyt">
+    <img src="https://lanyard.cnrad.dev/api/805771996687499275"/>
+     </a>
+</p>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
