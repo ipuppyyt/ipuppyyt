@@ -7,7 +7,7 @@
   
 <br/>  
 
-## What Am I Doing Now ?
+## What Am I Doing Now ? | Src : Discord RPC
 
 <p align="center"><br>
   <a href="https://github.com/ipuppyyt">
