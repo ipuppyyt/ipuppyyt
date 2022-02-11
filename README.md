@@ -56,11 +56,7 @@
 </td></tr></table>  
 
  
-<div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipuppyyt&layout=compact)](https://github.com/ipuppyyt/ipuppyyt)
 
-</div>
 <br/>
 
 ## Connect with me  
@@ -142,19 +138,6 @@
   <br>
   
 </div>
-
-  ## Contributors for :
-    
-   <div align="center"> 
-🎯<a href="https://github.com/ipuppyyt/website-template-html-portfolio"> Portfolio Website Template </a> <br><br>
-<a href="https://github.com/ipuppyyt/website-template-html-portfolio/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=ipuppyyt/website-template-html-portfolio" />
-</a><br><br>
-  🎯<a href="https://github.com/ipuppyyt/GDSC-MCE-Creators"> GDSC MCE Creators </a> <br><br>
-<a href="https://github.com/ipuppyyt/GDSC-MCE-Creators/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=ipuppyyt/website-template-html-portfolio" />
-</a><br><br>
-    </div>
   
   
    # Suggested Videos
