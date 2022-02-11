@@ -144,10 +144,7 @@
    
    <div align="center"> 
   
-  [![Make Win Faster](https://img.youtube.com/vi/RZlucXYxQ68/0.jpg)](https://www.youtube.com/watch?v=RZlucXYxQ68) 
-
-  
-  [![Make Win Faster](https://img.youtube.com/vi/bqNvSEBUbf4/0.jpg)](https://www.youtube.com/watch?v=bqNvSEBUbf4) 
+  [![Make Win Faster](https://img.youtube.com/vi/RZlucXYxQ68/0.jpg)](https://www.youtube.com/watch?v=RZlucXYxQ68) [![Make Win Faster](https://img.youtube.com/vi/bqNvSEBUbf4/0.jpg)](https://www.youtube.com/watch?v=bqNvSEBUbf4) 
   
   </div>
   
