@@ -161,9 +161,8 @@
    
    <div align="center"> 
   
-  [![Make Win Faster](https://img.youtube.com/vi/5sIl-FhA2nU/0.jpg)](https://www.youtube.com/watch?v=5sIl-FhA2nU) 
-  
-  <iframe width="424" height="238" src="https://www.youtube.com/embed/RZlucXYxQ68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [![Make Win Faster](https://img.youtube.com/vi/RZlucXYxQ68/0.jpg)](https://www.youtube.com/watch?v=RZlucXYxQ68) 
+
   
   [![Make Win Faster](https://img.youtube.com/vi/bqNvSEBUbf4/0.jpg)](https://www.youtube.com/watch?v=bqNvSEBUbf4) 
   
