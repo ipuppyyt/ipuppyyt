@@ -79,12 +79,16 @@
 <br/>  
 
 
-## My bots
+## My Bots
 
  <div align="center">  
     <a href="https://frequency-music.pages.dev" target="_blank">
   <img style="margin: 30px" src="https://i.imgur.com/EBOJrbL.png" alt="Frequency Music" height="50" />
     </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+  
+  <a href="https://discord.com/api/oauth2/authorize?client_id=847037422196752404&permissions=274878113792&scope=bot" target="_blank">
+  <img style="margin: 30px" src="https://cdn.discordapp.com/avatars/847037422196752404/0cb6a3d49e0ed36c1ab13d02470692fc.png" alt="Alexa ChatBot" height="50" />
+    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  </div>
 
 
