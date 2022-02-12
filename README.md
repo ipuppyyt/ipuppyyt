@@ -79,6 +79,15 @@
 <br/>  
 
 
+## My bots
+
+ <div align="center">  
+    <a href="https://frequency-music.pages.dev" target="_blank">
+  <img style="margin: 30px" src="https://i.imgur.com/EBOJrbL.png" alt="Frequency Music" height="50" />
+    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+ </div>
+
+
 ## Github Stats  
 
 <div align="center">
