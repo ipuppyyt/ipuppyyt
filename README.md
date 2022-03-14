@@ -97,8 +97,6 @@
 <div align="center">
   
   [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=yeblu)](https://github.com/ipuppyyt/config)
-
-![](https://hit.yhype.me/github/profile?user_id=71689062)
   
   ![](https://github.com/ipuppyyt/github-stats-assist/blob/master/generated/overview.svg)
   
