@@ -103,6 +103,8 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" />
 </div>
 
+![](https://github.com/ipuppyyt/github-stats/blob/master/generated/overview.svg)
+
 <div align="center">
 
 ## Profile Visit Stats 
