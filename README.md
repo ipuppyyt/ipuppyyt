@@ -105,7 +105,7 @@
 
 
 
-<div align="center">
+
 
 ## Profile Visit Stats 
 
@@ -152,8 +152,7 @@
   <br>
   <br>
   
-</div>
-  
+
   
    # Suggested Videos
    
