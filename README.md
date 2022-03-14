@@ -100,7 +100,7 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=71689062)
   
-  ![](https://github.com/ipuppyyt/github-stats/blob/master/generated/overview.svg)
+  ![](https://github.com/ipuppyyt/github-stats-assist/blob/master/generated/overview.svg)
   
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" />
 </div>
