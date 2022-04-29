@@ -60,7 +60,7 @@
 <br/>
 
 ## Support Me 
-<a href="https://www.buymeacoffee.com/iPuppyYT"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/iPuppyYT" />
+<center><a href="https://www.buymeacoffee.com/iPuppyYT"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/iPuppyYT" /></center>
 
 
 ## Connect with me  
