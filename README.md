@@ -61,13 +61,13 @@
 
 ## Support Me 
 <div align="center">
-  
-  <a href="https://www.buymeacoffee.com/iPuppyYT" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/iPuppyYT" /></a>
-  
-    <a href="https://www.patreon.com/ipuppytech" target="_blank">
-  ![patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
-  </a>
-  
+  <a href="https://www.buymeacoffee.com/iPuppyYT" target="_blank">
+<img src=https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+  <a href="https://www.patreon.com/ipuppytech" target="_blank">
+<img src=https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
   </div>
 
 
