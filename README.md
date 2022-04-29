@@ -92,7 +92,15 @@
 
 <br/>  
 
-
+## Game Profiles
+<div align="center">
+<img src=https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white alt=couldnotload style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white alt=couldnotload style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white alt=couldnotload style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF alt=couldnotload style="margin-bottom: 5px;" />
+ 
+  </div>
+  
 ## My Bots
 
  <div align="center">  
