@@ -64,7 +64,7 @@
   
   <a href="https://www.buymeacoffee.com/iPuppyYT" target="_blank"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/iPuppyYT" /></a>
   
-    <a href="https://www.buymeacoffee.com/iPuppyYT" target="_blank"> https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white </a>
+    <a href="https://www.patreon.com/ipuppytech" target="_blank"> <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white height="50" width="210" alt="patreon.com/ipuppytech." /></a>
   
   </div>
 
