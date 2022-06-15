@@ -1,4 +1,4 @@
-<script src="assets/js/profile.js" type="text/javascript"></script>
+<script src="assets/js/profile.js"> </script>
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
