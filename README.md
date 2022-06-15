@@ -98,6 +98,8 @@
 <div align="center">
 <img src="https://linkedin-zeta.vercel.app/user?username=dhanushsofficial" /></div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ipuppyyt)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Game Profiles
 <div align="center">
 <img src=https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white alt=couldnotload style="margin-bottom: 5px;" />
