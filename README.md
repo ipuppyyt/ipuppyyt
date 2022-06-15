@@ -93,11 +93,9 @@
 
 ## LinkedIn
 
-<!---<div align="center" src="https://platform.linkedin.com/badges/js/profile.js">
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dhanushsofficial" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/dhanushsofficial?trk=profile-badge">Dhanush S</a></div></div> --->
 <div align="center">
  <a href="https://www.linkedin.com/in/dhanushsofficial"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<img src="https://linkedin-ipuppyyt.vercel.app/user?username=dhanushsofficial" /></div>
+<!---<img src="https://linkedin-ipuppyyt.vercel.app/user?username=dhanushsofficial"></div>--->
 
 ## Game Profiles
 <div align="center">
