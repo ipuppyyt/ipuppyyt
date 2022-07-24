@@ -123,9 +123,7 @@
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=yeblu)](https://github.com/ipuppyyt/config)
-  
-  ![](https://github.com/ipuppyyt/github-stats-assist/blob/master/generated/overview.svg)
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=yeblu)](https://github.com/ipuppyyt/config) <br> ![](https://github.com/ipuppyyt/github-stats-assist/blob/master/generated/overview.svg)
   
   
 </div>
