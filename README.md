@@ -96,6 +96,10 @@
 <div align="center">
  <a href="https://www.linkedin.com/in/dhanushsofficial"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <!---<img src="https://linkedin-ipuppyyt.vercel.app/user?username=dhanushsofficial"></div>--->
+  
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="dhanushsofficial" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/dhanushsofficial?trk=profile-badge">Dhanush S</a></div>
+              
 
 ## Game Profiles
 <div align="center">
@@ -123,7 +127,7 @@
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=cobalt)](https://github.com/ipuppyyt/config) <br> ![](https://github.com/ipuppyyt/github-stats-assist/blob/master/generated/overview.svg) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipuppyyt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=cobalt)](https://github.com/ipuppyyt/config) <br> ![](https://github.com/ipuppyyt/github-stats-assist/blob/master/generated/overview.svg) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipuppyyt)](https://github.com/anuraghazra/github-readme-stats)
   
   
 </div>
