@@ -136,7 +136,7 @@
 
 <div align="center">
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=ipuppyyt&style=for-the-badge&color=ff9900)
+![Profile View Counter](https://komarev.com/ghpvc/?username=ipuppyyt&style=for-the-badge&color=ff6600)
 
 </div>
   
