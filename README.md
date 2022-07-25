@@ -117,7 +117,7 @@
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=cobalt)](https://github.com/ipuppyyt/config) <br> ![](https://github.com/ipuppyyt/github-stats-assist/blob/master/generated/overview.svg) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipuppyyt)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=merko)](https://github.com/ipuppyyt/config) <br> ![](https://github.com/ipuppyyt/github-stats-assist/blob/master/generated/overview.svg) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipuppyyt&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
   
   
 </div>
