@@ -96,9 +96,8 @@
 <div align="center">
  <a href="https://www.linkedin.com/in/dhanushsofficial"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <!---<img src="https://linkedin-ipuppyyt.vercel.app/user?username=dhanushsofficial"></div>--->
-  [![linkedin](https://in.linkedin.com/in/dhanushsofficial?trk=profile-badge)](https://www.linkedin.com/in/dhanushsofficial)
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   
+[![linkedin](https://in.linkedin.com/in/dhanushsofficial?trk=profile-badge)](https://www.linkedin.com/in/dhanushsofficial)
               
 
 ## Game Profiles
