@@ -51,9 +51,12 @@
 <br/>
 
 ## Featured
+<div align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Into-The-Dark&theme=merko)](https://github.com/ipuppyyt/Into-The-Dark) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=website-template-html-portfolio&theme=merko)](https://github.com/ipuppyyt/website-template-html-portfolio)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Into-The-Dark&theme=merko)](https://github.com/ipuppyyt/Into-The-Dark) &nbsp;&nbsp;&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=website-template-html-portfolio&theme=merko)](https://github.com/ipuppyyt/website-template-html-portfolio)
 
+</div>
+  
 ## Support Me 
 <div align="center">
   <a href="https://www.buymeacoffee.com/iPuppyYT" target="_blank">
