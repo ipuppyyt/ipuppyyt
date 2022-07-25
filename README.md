@@ -52,7 +52,7 @@
 
 ## Featured
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Into-The-Dark)]
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Into-The-Dark&theme=merko)](https://github.com/ipuppyyt/Into-The-Dark)
 
 ## Support Me 
 <div align="center">
