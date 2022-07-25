@@ -143,7 +143,7 @@
   
 ### YouTube Stats
   
-  <a href="https://github.com/ipuppyyt">
+  <a href="https://www.youtube.com/c/iPuppyTech?sub_confirmation=1">
     
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8Yjx_8oCJUHpVV7pHyye4w?style=for-the-badge&logo=youtube)
 
