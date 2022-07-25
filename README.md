@@ -93,10 +93,7 @@
 
 <div align="center">
  <a href="https://www.linkedin.com/in/dhanushsofficial"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<!---<img src="https://linkedin-ipuppyyt.vercel.app/user?username=dhanushsofficial"></div>--->
-  
-[![linkedin](https://in.linkedin.com/in/dhanushsofficial?trk=profile-badge)](https://www.linkedin.com/in/dhanushsofficial)
-              
+ </div>             
 
 ## Game Profiles
 <div align="center">
@@ -107,7 +104,7 @@
  
   </div>
   
-## My Bots
+## Discord Bots
 
  <div align="center">  
     <a href="https://frequency-music.pages.dev" target="_blank">
@@ -129,23 +126,21 @@
 </div>
 
 
-
-
-
-## Profile Visit Stats 
+## Stats
 
 <div align="center">
-
+<table style="border:2px dashed green" ><tr><td valign="top" width="40%"><div align="center">
+   
+### GitHub Profile
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ipuppyyt&style=for-the-badge&color=ff6600)
 
-</div>
+</div></td><td valign="top" width="40%"><div align="center">
   
-## YouTube Stats
+### YouTube Stats
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8Yjx_8oCJUHpVV7pHyye4w?style=for-the-badge&logo=youtube)
 
-<div align="center">
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8Yjx_8oCJUHpVV7pHyye4w?style=for-the-badge&logo=youtube">
-
-</div>  
+</div></td></tr></table>
+</div>
 
 ##  Experienced In
 
@@ -196,5 +191,8 @@
   </div>
   
   
-
+<div align="center">
+  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=auto&section=footer)
+
+ </div>
