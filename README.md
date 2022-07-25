@@ -121,7 +121,7 @@
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=merko)](https://github.com/ipuppyyt/config)
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=merko)](https://github.com/ipuppyyt/config) </a>
   
 </div>
 
@@ -132,13 +132,22 @@
 <table style="border:2px dashed green" ><tr><td valign="top" width="40%"><div align="center">
    
 ### GitHub Profile
+  
+   <a href="https://github.com/ipuppyyt">
+     
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ipuppyyt&style=for-the-badge&color=ff6600)
+     
+  </a>
 
 </div></td><td valign="top" width="40%"><div align="center">
   
 ### YouTube Stats
+  
+  <a href="https://github.com/ipuppyyt">
+    
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8Yjx_8oCJUHpVV7pHyye4w?style=for-the-badge&logo=youtube)
 
+  </a>
 </div></td></tr></table>
 </div>
 
