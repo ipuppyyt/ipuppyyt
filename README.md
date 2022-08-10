@@ -120,7 +120,8 @@
 
 <div align="center">
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=merko)](https://github.com/ipuppyyt/config) </a>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> 
+  <!--- [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=merko)](https://github.com/ipuppyyt/config) </a> -->
   
 </div>
 
