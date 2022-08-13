@@ -53,7 +53,7 @@
 ## Featured
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Into-The-Dark&theme=merko)](https://github.com/ipuppyyt/Into-The-Dark) &nbsp;&nbsp;&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Discord-RPC-Client&theme=merko)](https://github.com/ipuppyyt/Discord-RPC-Client) &nbsp;&nbsp;&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=website-template-html-portfolio&theme=merko)](https://github.com/ipuppyyt/website-template-html-portfolio) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Into-The-Dark&theme=merko)](https://github.com/ipuppyyt/Into-The-Dark) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Discord-RPC-Client&theme=merko)](https://github.com/ipuppyyt/Discord-RPC-Client) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=website-template-html-portfolio&theme=merko)](https://github.com/ipuppyyt/website-template-html-portfolio) 
 </div>
   
 ## Support Me 
