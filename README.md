@@ -199,8 +199,6 @@
   </div>
   
   
-<div align="center">
-  
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&width=auto&section=footer)
-
+<div align="center"> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer" height="250" width="auto" />
  </div>
