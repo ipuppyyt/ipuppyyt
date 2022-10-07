@@ -119,9 +119,8 @@
 ## Github Stats  
 
 <div align="center">
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> 
-  <!--- [![iPuppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipuppyyt&theme=merko)](https://github.com/ipuppyyt/config) </a> -->
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipuppyyt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<img width="48%" height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> 
   
 </div>
 
