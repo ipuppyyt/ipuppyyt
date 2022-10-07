@@ -193,12 +193,8 @@
   # Support Server
   
   <div align="center"> 
-  <a href="https://discord.com/invite/mbG5RWHXR7" target="_blank">
+  <a href="https://ipuppytech.tk/discord" target="_blank">
   <img src="https://raw.githubusercontent.com/bird2008/InviteLoggerDiscordBot/main/assets/img/discord-banner.png" alt="Discord Support Server"/>
   </a>
-  </div>
-  
-  
-<div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer" height="300" width="auto" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&&section=footer" width="auto" />
  </div>
