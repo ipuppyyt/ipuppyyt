@@ -200,5 +200,5 @@
   
   
 <div align="center"> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer" height="250" width="auto" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=footer" height="300" width="auto" />
  </div>
