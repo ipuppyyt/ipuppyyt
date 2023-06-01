@@ -54,8 +54,7 @@
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Into-The-Dark&theme=merko)](https://github.com/ipuppyyt/Into-The-Dark) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Discord-RPC-Client&theme=merko)](https://github.com/ipuppyyt/Discord-RPC-Client) &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=website-template-html-portfolio&theme=merko)](https://github.com/ipuppyyt/website-template-html-portfolio) 
-  &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Blood-Bank-Management-System&
-theme=merko)](https://github.com/ipuppyyt/Blood-Bank-Management-System) 
+  &nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ipuppyyt&repo=Blood-Bank-Management-System&theme=merko)](https://github.com/ipuppyyt/Blood-Bank-Management-System) 
 </div>
   
 ## Support Me 
