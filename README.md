@@ -93,36 +93,13 @@
 
 <div align="center">
  <a href="https://www.linkedin.com/in/dhanushsofficial"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
- </div>             
-
-## Game Profiles
-<div align="center">
-<img src=https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white alt=couldnotload style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white alt=couldnotload style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white alt=couldnotload style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF alt=couldnotload style="margin-bottom: 5px;" />
- 
-  </div>
-  
-## Discord Bots
-
- <div align="center">  
-    <a href="https://frequency-music.pages.dev" target="_blank">
-  <img style="margin: 30px" src="https://i.imgur.com/EBOJrbL.png" alt="Frequency Music" height="50" />
-    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-  
-  <a href="https://discord.com/api/oauth2/authorize?client_id=847037422196752404&permissions=274878113792&scope=bot" target="_blank">
-  <img style="margin: 30px" src="https://cdn.discordapp.com/avatars/847037422196752404/0cb6a3d49e0ed36c1ab13d02470692fc.png" alt="Alexa ChatBot" height="50" />
-    </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
  </div>
 
 
 ## Github Stats  
 
 <div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipuppyyt&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<img width="48%" height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> 
-  
+<img width="48%" height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt" /> 
 </div>
 
 
@@ -195,7 +172,7 @@
   
   <div align="center"> 
   <a href="https://ipuppytech.tk/discord" target="_blank">
-  <img src="https://raw.githubusercontent.com/bird2008/InviteLoggerDiscordBot/main/assets/img/discord-banner.png" alt="Discord Support Server"/>
+  <img src="https://th.bing.com/th/id/R.ee0ce1f4a942115e6e7059cd733b21a7?rik=7oNtgQslBCl3qw&riu=http%3a%2f%2fmedia.comicbook.com%2f2017%2f08%2fdiscord-1013672.png&ehk=Kia9hwoFC8YWf2wt0Rr0jWbRN62GuN83zg6GXPqP23A%3d&risl=&pid=ImgRaw&r=0" style="height:1000;width:400";overflow:hidden" alt="Discord Support Server"/>
   </a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&&section=footer" width="auto" />
  </div>
