@@ -47,10 +47,10 @@
 <a href="https://github.com/ipuppyyt" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Dhanush51375665" target="_blank">
+<a href="https://twitter.com/ipuppyyt" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://ipuppytech.tk/" target="_blank">
+<a href="https://ipuppyyt.is-a.dev/" target="_blank">
 <img src=https://img.shields.io/badge/Website-%2308090A.svg?&style=for-the-badge&logo=Website&logoColor=white alt=Website style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.com/invite/mbG5RWHXR7" target="_blank">
