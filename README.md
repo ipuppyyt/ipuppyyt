@@ -77,7 +77,7 @@
 ## Stats
 
 <div align="center">
-<table style="border:2px dashed green" ><tr><td valign="top" width="40%"><div align="center">
+<table style="border:2px dashed green" ><tr><td valign="top" width="30%"><div align="center">
    
 ### GitHub Profile
   
@@ -87,7 +87,7 @@
      
   </a>
 
-</div></td><td valign="top" width="40%"><div align="center">
+</div></td><td valign="top" width="30%"><div align="center">
   
 ### YouTube Stats
   
@@ -98,7 +98,7 @@
   </a>
 </div></td>
 
-<td valign="top" width="60%"><div align="center">
+<td valign="top" width="40%"><div align="center">
   
 ### WakaTime
   
