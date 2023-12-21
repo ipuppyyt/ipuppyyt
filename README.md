@@ -93,18 +93,18 @@
   
   <a href="https://www.youtube.com/c/iPuppyTech?sub_confirmation=1">
     
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8Yjx_8oCJUHpVV7pHyye4w?style=for-the-badge&logo=youtube)
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8Yjx_8oCJUHpVV7pHyye4w?style=for-the-badge&logo=youtube&color=ff6600)
 
   </a>
 </div></td>
 
-<td valign="top" width="40%"><div align="center">
+<td valign="top" width="60%"><div align="center">
   
 ### WakaTime
   
   <a href="https://wakatime.com/@iPuppyyt">
     
-[![wakatime](https://img.shields.io/badge/WakaTime-000000.svg?style=for-the-badge&logo=WakaTime)](https://wakatime.com/@0ec2f953-d595-4323-b209-f77bf7d2636b)
+[![wakatime](https://wakatime.com/badge/user/0ec2f953-d595-4323-b209-f77bf7d2636b.svg?style=for-the-badge&color=ff6600)](https://wakatime.com/@0ec2f953-d595-4323-b209-f77bf7d2636b)
 
   </a>
 </div></td>
