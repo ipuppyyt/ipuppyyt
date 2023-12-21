@@ -79,7 +79,7 @@
 <div align="center">
 <table style="border:2px dashed green" ><tr><td valign="top" width="30%"><div align="center">
    
-### GitHub Profile
+### GitHub
   
    <a href="https://github.com/ipuppyyt">
      
@@ -89,7 +89,7 @@
 
 </div></td><td valign="top" width="30%"><div align="center">
   
-### YouTube Stats
+### YouTube
   
   <a href="https://www.youtube.com/c/iPuppyTech?sub_confirmation=1">
     
