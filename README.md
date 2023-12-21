@@ -96,7 +96,21 @@
 ![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8Yjx_8oCJUHpVV7pHyye4w?style=for-the-badge&logo=youtube)
 
   </a>
-</div></td></tr></table>
+</div></td>
+
+<td valign="top" width="40%"><div align="center">
+  
+### WakaTime
+  
+  <a href="https://wakatime.com/@iPuppyyt">
+    
+[![wakatime](https://img.shields.io/badge/WakaTime-000000.svg?style=for-the-badge&logo=WakaTime)](https://wakatime.com/@0ec2f953-d595-4323-b209-f77bf7d2636b)
+
+  </a>
+</div></td>
+
+
+</tr></table>
 </div>
 
 ##  Experienced In
