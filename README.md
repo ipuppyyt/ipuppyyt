@@ -7,7 +7,7 @@
   
 <br/>  
 
-## What Am I Doing Now ?
+## Right now I'm
 
 <p align="center"><br>
   <a href="https://github.com/ipuppyyt">
