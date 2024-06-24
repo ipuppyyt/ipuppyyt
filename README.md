@@ -145,19 +145,8 @@
   
 
   
-   # Suggested Videos
-   
-   <div align="center"> 
-  
-  [![Make Win Faster](https://img.youtube.com/vi/RZlucXYxQ68/0.jpg)](https://www.youtube.com/watch?v=RZlucXYxQ68) [![Make Win Faster](https://img.youtube.com/vi/bqNvSEBUbf4/0.jpg)](https://www.youtube.com/watch?v=bqNvSEBUbf4) 
-  
-  </div>
-  
   # Support Server
   
   <div align="center"> 
-  <a href="https://ipuppytech.tk/discord" target="_blank">
-  <img src="https://th.bing.com/th/id/R.ee0ce1f4a942115e6e7059cd733b21a7?rik=7oNtgQslBCl3qw&riu=http%3a%2f%2fmedia.comicbook.com%2f2017%2f08%2fdiscord-1013672.png&ehk=Kia9hwoFC8YWf2wt0Rr0jWbRN62GuN83zg6GXPqP23A%3d&risl=&pid=ImgRaw&r=0" style="height:1000;width:400";overflow:hidden" alt="Discord Support Server"/>
-  </a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&&section=footer" width="auto" />
  </div>
