@@ -143,9 +143,6 @@
   <br>
   <br>
   
-
-  
-  # Support Server
   
   <div align="center"> 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&&section=footer" width="auto" />
