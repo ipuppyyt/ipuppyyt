@@ -11,7 +11,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/ipuppyyt">
-    <img src="https://lanyard.cnrad.dev/api/805771996687499275"/>
+    <img src="https://lanyard.cnrad.dev/api/805771996687499275?animated=true&showDisplayName=true&hideStatus=true&hideTimestamp=true"/>
      </a>
 </p>
 
