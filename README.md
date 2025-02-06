@@ -8,13 +8,13 @@
 
 #### A full-stack developer with a passion for creating complete web applications. I enjoy working on both the front-end and back-end, building seamless user experiences while ensuring the server-side logic runs smoothly. I focus on writing clean, scalable, and efficient code, making sure everything works together seamlessly. Problem-solving and optimizing performance are key parts of my process, and I love delivering end-to-end solutions that are both robust and user-friendly
 
-## What I'm doing now
+<!-- ## What I'm doing now
 
 [![Discord Activity](https://lanyard.cnrad.dev/api/805771996687499275?animated=true&showDisplayName=true&hideStatus=true&hideTimestamp=true)](/)
 
 ## Github Stats
 
-[![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt)](/)
+[![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt)](/) -->
 
 ## Technologies
 
