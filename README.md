@@ -1,4 +1,4 @@
-![Hello](assets/hello.gif)
+[![Hello](assets/hello.gif)](https://github.com/ipuppyyt)
 
 # 👋 Hey, I'm Dhanush
 
@@ -18,45 +18,45 @@ Let's build something amazing together! 💡
 
 <!-- ## What I'm doing now
 
-[![Discord Activity](https://lanyard.cnrad.dev/api/805771996687499275?animated=true&showDisplayName=true&hideStatus=true&hideTimestamp=true)](/)
+[![Discord Activity](https://lanyard.cnrad.dev/api/805771996687499275?animated=true&showDisplayName=true&hideStatus=true&hideTimestamp=true)](https://github.com/ipuppyyt)
 
 ## Github Stats
 
-[![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt)](/) -->
+[![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=ipuppyyt&theme=cobalt)](https://github.com/ipuppyyt) -->
 
 ## Technologies
 
 ### Frontend
 
-![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,react,next,vite,md)
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,react,next,vite,md)](https://github.com/ipuppyyt)
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=nodejs,bash,express,py,workers)
+[![Backend](https://skillicons.dev/icons?i=nodejs,bash,express,py,workers)](https://github.com/ipuppyyt)
 
 ### Devops
 
-![Devops](https://skillicons.dev/icons?i=docker,githubactions)
+[![Devops](https://skillicons.dev/icons?i=docker,githubactions)](https://github.com/ipuppyyt)
 
 ### Database
 
-![Database](https://skillicons.dev/icons?i=mongo,mysql,sqlite,d3)
+[![Database](https://skillicons.dev/icons?i=mongo,mysql,sqlite,d3)](https://github.com/ipuppyyt)
 
 ### Cloud
 
-![Cloud](https://skillicons.dev/icons?i=azure,aws,vercel,cloudflare,netlify)
+[![Cloud](https://skillicons.dev/icons?i=azure,aws,vercel,cloudflare,netlify)](https://github.com/ipuppyyt)
 
 ### Version Control
 
-![Version Control](https://skillicons.dev/icons?i=git,github)
+[![Version Control](https://skillicons.dev/icons?i=git,github)](https://github.com/ipuppyyt)
 
 ### Softwares
 
-![Softwares](https://skillicons.dev/icons?i=vscode,ae,au,pr,ps,postman,figma,blender)
+[![Softwares](https://skillicons.dev/icons?i=vscode,ae,au,pr,ps,postman,figma,blender)](https://github.com/ipuppyyt)
 
 ### Operating Systen
 
-![OS](https://skillicons.dev/icons?i=windows,apple,ubuntu,linux)
+[![OS](https://skillicons.dev/icons?i=windows,apple,ubuntu,linux)](https://github.com/ipuppyyt)
 
 ## Stats
 
