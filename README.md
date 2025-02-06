@@ -65,8 +65,8 @@ Let's build something amazing together! 💡
 
 ## Social
 
-[![Discord](https://skillicons.dev/icons?i=discord)](https://github.com/ipuppyyt)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ipuppyyt)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dhan_ushofficial)
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhanushsofficial)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ipuppyyt)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://github.com/ipuppyyt)‎‎ ‎ 
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ipuppyyt)‎ ‎ 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dhan_ushofficial)‎ ‎ 
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/dhanushsofficial)‎ ‎ 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/ipuppyyt)‎ ‎ 
