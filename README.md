@@ -1,6 +1,6 @@
 ![Hello](assets/hello.gif)
 
-# 👋 Hey, I'm Dhanush S
+# 👋 Hey, I'm Dhanush
 
 #### 🚀 Full-Stack Developer | Tech Enthusiast | Open Source Contributor
 
