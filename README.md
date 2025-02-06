@@ -6,7 +6,7 @@
 
 ## 🧐 About Me
 
-### A full-stack developer with a passion for creating complete web applications. I enjoy working on both the front-end and back-end, building seamless user experiences while ensuring the server-side logic runs smoothly. I focus on writing clean, scalable, and efficient code, making sure everything works together seamlessly. Problem-solving and optimizing performance are key parts of my process, and I love delivering end-to-end solutions that are both robust and user-friendly
+#### A full-stack developer with a passion for creating complete web applications. I enjoy working on both the front-end and back-end, building seamless user experiences while ensuring the server-side logic runs smoothly. I focus on writing clean, scalable, and efficient code, making sure everything works together seamlessly. Problem-solving and optimizing performance are key parts of my process, and I love delivering end-to-end solutions that are both robust and user-friendly
 
 ## What I'm doing now
 
