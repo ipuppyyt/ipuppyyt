@@ -28,7 +28,7 @@ Let's build something amazing together! 💡
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,react,next,vite,md)](https://github.com/ipuppyyt)
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,scss,tailwind,react,next,vite,electron,md)](https://github.com/ipuppyyt)
 
 ### Backend
 
