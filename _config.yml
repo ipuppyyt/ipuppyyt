@@ -6,8 +6,9 @@ url: "https://ipuppyyt.github.io/ipuppyyt"
 lang: en
 timezone: Asia/Kolkata
 
-author:
-  name: "Dhanush S"
+author: "Dhanush S"
+
+contact:
   github: "https://github.com/ipuppyyt"
   email: "dhanush@elevateaura.agency"
 
