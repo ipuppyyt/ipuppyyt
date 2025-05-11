@@ -1,6 +1,7 @@
-<footer class="site-footer" style="background: #f8f8f8; padding: 1.5rem 1rem; border-top: 1px solid #ddd;">
-    <div class="wrapper" style="text-align: center; font-size: 0.9rem; color: #666;">
+<footer class="site-footer" style="background: #fff; padding: 1.5rem 1rem; border-top: 1px solid #ddd; color: #333;">
+    <div class="wrapper" style="text-align: center; font-size: 0.9rem;">
         <p>© {{ site.author }} | {{ site.time | date: '%Y' }}</p>
+        <p>{{ site.description }}</p> <!-- Your description -->
         <p>
             <a href="mailto:{{ site.email }}">Email</a>
             {% if site.social_links.github %} | <a href="{{ site.social_links.github }}" target="_blank">GitHub</a>{%
