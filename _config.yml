@@ -19,7 +19,8 @@ social_links:
   linkedin: "https://www.linkedin.com/in/dhanushsofficial/"
   instagram: "https://www.instagram.com/dhan_ushofficial/"
 
-theme_mode: "dark"
+theme_mode: dark
+footer_content: "custom"
 markdown: kramdown
 theme: minima
 
