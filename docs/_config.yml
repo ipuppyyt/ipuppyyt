@@ -3,4 +3,13 @@ description: "I'm Dhanush, a full-stack developer passionate about building comp
 url: "https://ipuppyyt.is-a.dev/iPuppyYT/"
 author:
   name: "Dhanush S"
-  github: ipuppyyt
+  github: "https://github.com/ipuppyyt"
+
+# Enable markdown rendering for Jekyll
+markdown: kramdown
+
+# Theme
+theme: "minima"  # Or you can use any other theme you prefer
+
+# Permalinks
+permalink: "/:year/:month/:day/:title/"

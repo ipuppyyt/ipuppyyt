@@ -1,4 +1,10 @@
-[![Hello](docs/assets/hello.gif)](https://github.com/ipuppyyt)
+---
+layout: default
+title: "Dhanush S | Full-Stack Developer"
+description: "I'm Dhanush, a full-stack developer passionate about building complete web apps. I specialize in crafting seamless front-end experiences and robust back-end systems. With a focus on clean code, performance, and problem-solving, I thrive on delivering efficient, user-friendly solutions. Let's collaborate and create something impactful together!"
+---
+
+[![Hello](assets/hello.gif)](https://github.com/ipuppyyt)
 
 # 👋 Hey, I'm Dhanush
 
