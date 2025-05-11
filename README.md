@@ -64,8 +64,21 @@ Let's build something amazing together! 💡
 
 ## Stats
 
-| ![Profile View Counter](https://komarev.com/ghpvc/?username=ipuppyyt&style=for-the-badge&color=ff6600) | ![YouTube](https://img.shields.io/youtube/channel/subscribers/UC8Yjx_8oCJUHpVV7pHyye4w?style=for-the-badge&logo=youtube&color=ff6600) | [![wakatime](https://wakatime.com/badge/user/0ec2f953-d595-4323-b209-f77bf7d2636b.svg?style=for-the-badge&color=ff6600)](https://wakatime.com/@0ec2f953-d595-4323-b209-f77bf7d2636b) |
-| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+<table>
+  <tr>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=ipuppyyt&style=for-the-badge&color=ff6600" alt="Profile View Counter">
+    </td>
+    <td>
+      <img src="https://img.shields.io/youtube/channel/subscribers/UC8Yjx_8oCJUHpVV7pHyye4w?style=for-the-badge&logo=youtube&color=ff6600" alt="YouTube Subscribers">
+    </td>
+    <td>
+      <a href="https://wakatime.com/@0ec2f953-d595-4323-b209-f77bf7d2636b">
+        <img src="https://wakatime.com/badge/user/0ec2f953-d595-4323-b209-f77bf7d2636b.svg?style=for-the-badge&color=ff6600" alt="Wakatime">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Social
 
