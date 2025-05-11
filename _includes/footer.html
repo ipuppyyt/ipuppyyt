@@ -1,13 +1,14 @@
-<footer class="site-footer">
-    <div class="wrapper">
-        <p>&copy; {{ site.author }}</p>
+<footer class="site-footer" style="background: #f8f8f8; padding: 1.5rem 1rem; border-top: 1px solid #ddd;">
+    <div class="wrapper" style="text-align: center; font-size: 0.9rem; color: #666;">
+        <p>© {{ site.author }} | {{ site.time | date: '%Y' }}</p>
         <p>
-            {% if site.email %}<a href="mailto:{{ site.email }}">Email</a>{% endif %}
-            {% if site.social_links.github %} | <a href="{{ site.social_links.github }}">GitHub</a>{% endif %}
-            {% if site.social_links.linkedin %} | <a href="{{ site.social_links.linkedin }}">LinkedIn</a>{% endif %}
-            {% if site.social_links.twitter %} | <a href="{{ site.social_links.twitter }}">Twitter</a>{% endif %}
-            {% if site.social_links.instagram %} | <a href="{{ site.social_links.instagram }}">Instagram</a>{% endif %}
+            <a href="mailto:{{ site.email }}">Email</a>
+            {% if site.social_links.github %} | <a href="{{ site.social_links.github }}" target="_blank">GitHub</a>{%
+            endif %}
+            {% if site.social_links.linkedin %} | <a href="{{ site.social_links.linkedin }}"
+                target="_blank">LinkedIn</a>{% endif %}
+            {% if site.social_links.instagram %} | <a href="{{ site.social_links.instagram }}"
+                target="_blank">Instagram</a>{% endif %}
         </p>
     </div>
-</footer>
-  
+</footer>  
