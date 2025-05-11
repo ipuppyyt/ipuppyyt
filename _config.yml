@@ -1,15 +1,12 @@
 title: "Dhanush S | Full-Stack Developer"
 description: "I'm Dhanush, a full-stack developer passionate about building complete web apps. I specialize in crafting seamless front-end experiences and robust back-end systems. With a focus on clean code, performance, and problem-solving, I thrive on delivering efficient, user-friendly solutions. Let's collaborate and create something impactful together!"
-url: "https://ipuppyyt.github.io"
+url: "https://ipuppyyt.github.io/ipuppyyt"
 author:
   name: "Dhanush S"
   github: "https://github.com/ipuppyyt"
 
-# Enable markdown rendering for Jekyll
 markdown: kramdown
 
-# Theme
-theme: "minima"  # Or you can use any other theme you prefer
+theme: "minima"
 
-# Permalinks
 permalink: "/:year/:month/:day/:title/"

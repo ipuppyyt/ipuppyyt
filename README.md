@@ -1,4 +1,4 @@
-[![Hello](docs/assets/hello.gif)](https://github.com/ipuppyyt)
+[![Hello](assets/hello.gif)](https://github.com/ipuppyyt)
 
 # 👋 Hey, I'm Dhanush
 
