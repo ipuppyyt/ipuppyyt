@@ -1,10 +1,3 @@
-<!--
----
-layout: default
----
--->
-
-
 [![Hello](assets/hello.gif)](https://github.com/ipuppyyt)
 
 # 👋 Hey, I'm Dhanush
