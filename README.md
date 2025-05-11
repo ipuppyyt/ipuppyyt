@@ -1,8 +1,6 @@
 <!--
 ---
 layout: default
-title: "Dhanush S | Full-Stack Developer"
-description: "Hi, I'm Dhanush – a passionate full-stack developer building seamless web apps."
 ---
 -->
 
