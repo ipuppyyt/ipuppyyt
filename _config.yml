@@ -7,6 +7,6 @@ author:
 
 markdown: kramdown
 
-theme: "minima"
+theme: "jekyll-theme-chirpy"
 
 permalink: "/:year/:month/:day/:title/"
