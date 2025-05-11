@@ -6,12 +6,20 @@ url: "https://ipuppyyt.github.io/ipuppyyt"
 lang: en
 timezone: Asia/Kolkata
 
-author:
-  name: "Dhanush S"
+author: "Dhanush S"
+
+contact:
   github: "https://github.com/ipuppyyt"
   email: "dhanush@elevateaura.agency"
 
-theme_mode: "light"
+email: "dhanush@elevateaura.agency"
+
+social_links:
+  github: "https://github.com/ipuppyyt"
+  linkedin: "https://www.linkedin.com/in/dhanushsofficial/"
+  instagram: "https://www.instagram.com/dhan_ushofficial/"
+
+theme_mode: "dark"
 markdown: kramdown
 theme: minima
 
