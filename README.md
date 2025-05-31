@@ -32,7 +32,7 @@ Let's build something amazing together! 💡
 
 ### Backend
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,bash,express,py,workers,discordjs)](https://github.com/ipuppyyt)
+[![Backend](https://skillicons.dev/icons?i=nodejs,bun,bash,express,py,workers,discordjs)](https://github.com/ipuppyyt)
 
 ### State Management
 
